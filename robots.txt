@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-mg2p1i.bokupaybymobile.com/sitemap.xml
